@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#6AA84F"/>
+  <circle cx="200" cy="120" r="58" fill="#ffffff" opacity="0.9"/>
+  <text x="200" y="140" font-family="Arial, sans-serif" font-size="52" text-anchor="middle">🐾</text>
+  <text x="200" y="240" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#ffffff" text-anchor="middle">Banho e Tosa</text>
+</svg>
